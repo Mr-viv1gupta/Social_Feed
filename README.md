@@ -1,7 +1,7 @@
 # Social_Feed
 Porting Socialfeed Module from Drupal 7 to Drupal 8
 
-Using the Module from https://www.drupal.org/project/socialfeed
+Using the Module from https://www.drupal.org/project/socialfeed .
 The credit goes to the respective authors for developing this Module.
 This module is available for Drupal 7.
 Here, I am trying porting this module for Drupal 8.
@@ -60,10 +60,11 @@ INSTALLATION
  - Enable the Social Feed module.
  
  OR
- -Goto https://www.drupal.org/project/socialfeed , and copy its download link to Clipboard
+ 
+ - Goto https://www.drupal.org/project/socialfeed , and copy its download link to Clipboard
   either of tar or zip file.
- -Now, in your sites/extend/ install new Module and paste the URL link there. and click Install
- -Enable the Socialfeed Module.
+ - Now, in your sites/extend/ install new Module and paste the URL link there. and click Install
+ - Enable the Socialfeed Module.
  
 
 CONFIGURATION
