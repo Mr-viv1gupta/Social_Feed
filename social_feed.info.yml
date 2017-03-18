@@ -1,4 +1,4 @@
-name: Social Feed
+name: Social_Feed
 description: Provides user an option to easily fetch feeds from Facebook, Twitter or Instagram and then display them using blocks in Drupal.Currently it needs to be ported to Drupal 8
 package: Custom
 
