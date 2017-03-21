@@ -1,8 +1,12 @@
 name: Social_Feed
 description: Provides user an option to easily fetch feeds from Facebook, Twitter or Instagram and then display them using blocks in Drupal.Currently it needs to be ported to Drupal 8
-package: Custom
+package: Custom Modules
 
-type: module
+version = "8.x-1.1"
 core: 8.x
 configure: socialfeed.admin
 #configure: socialfeed.settings
+dependencies:
+  - ctools
+  - panels
+  - views
